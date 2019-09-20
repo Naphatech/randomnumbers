@@ -1,0 +1,11 @@
+c:\users\borges\documents\visual studio 2017\Projects\randomkeys\randomkeys\bin\Debug\randomkeys.exe.config
+c:\users\borges\documents\visual studio 2017\Projects\randomkeys\randomkeys\bin\Debug\randomkeys.exe
+c:\users\borges\documents\visual studio 2017\Projects\randomkeys\randomkeys\bin\Debug\randomkeys.pdb
+c:\users\borges\documents\visual studio 2017\Projects\randomkeys\randomkeys\obj\Debug\randomkeys.csprojResolveAssemblyReference.cache
+c:\users\borges\documents\visual studio 2017\Projects\randomkeys\randomkeys\obj\Debug\randomkeys.randomnumber.resources
+c:\users\borges\documents\visual studio 2017\Projects\randomkeys\randomkeys\obj\Debug\randomkeys.Properties.Resources.resources
+c:\users\borges\documents\visual studio 2017\Projects\randomkeys\randomkeys\obj\Debug\randomkeys.csproj.GenerateResource.Cache
+c:\users\borges\documents\visual studio 2017\Projects\randomkeys\randomkeys\obj\Debug\randomkeys.exe
+c:\users\borges\documents\visual studio 2017\Projects\randomkeys\randomkeys\obj\Debug\randomkeys.pdb
+C:\Users\borges\Documents\Visual Studio 2017\Projects\randomkeys\randomkeys\obj\Debug\randomkeys.lotomania.resources
+C:\Users\borges\Documents\Visual Studio 2017\Projects\randomkeys\randomkeys\obj\Debug\randomkeys.acessar.resources

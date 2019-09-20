@@ -16,7 +16,7 @@ namespace randomkeys
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new randomnumber());
+            Application.Run(new acessar());
         }
     }
 }
