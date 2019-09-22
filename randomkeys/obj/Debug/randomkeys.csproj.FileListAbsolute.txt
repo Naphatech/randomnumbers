@@ -9,3 +9,14 @@ c:\users\borges\documents\visual studio 2017\Projects\randomkeys\randomkeys\obj\
 c:\users\borges\documents\visual studio 2017\Projects\randomkeys\randomkeys\obj\Debug\randomkeys.pdb
 C:\Users\borges\Documents\Visual Studio 2017\Projects\randomkeys\randomkeys\obj\Debug\randomkeys.lotomania.resources
 C:\Users\borges\Documents\Visual Studio 2017\Projects\randomkeys\randomkeys\obj\Debug\randomkeys.acessar.resources
+C:\Users\borges\Documents\Visual Studio 2017\Projects\randomnumbers-master\randomkeys\bin\Debug\randomkeys.exe.config
+C:\Users\borges\Documents\Visual Studio 2017\Projects\randomnumbers-master\randomkeys\bin\Debug\randomkeys.exe
+C:\Users\borges\Documents\Visual Studio 2017\Projects\randomnumbers-master\randomkeys\bin\Debug\randomkeys.pdb
+C:\Users\borges\Documents\Visual Studio 2017\Projects\randomnumbers-master\randomkeys\obj\Debug\randomkeys.csprojResolveAssemblyReference.cache
+C:\Users\borges\Documents\Visual Studio 2017\Projects\randomnumbers-master\randomkeys\obj\Debug\randomkeys.acessar.resources
+C:\Users\borges\Documents\Visual Studio 2017\Projects\randomnumbers-master\randomkeys\obj\Debug\randomkeys.lotomania.resources
+C:\Users\borges\Documents\Visual Studio 2017\Projects\randomnumbers-master\randomkeys\obj\Debug\randomkeys.randomnumber.resources
+C:\Users\borges\Documents\Visual Studio 2017\Projects\randomnumbers-master\randomkeys\obj\Debug\randomkeys.Properties.Resources.resources
+C:\Users\borges\Documents\Visual Studio 2017\Projects\randomnumbers-master\randomkeys\obj\Debug\randomkeys.csproj.GenerateResource.Cache
+C:\Users\borges\Documents\Visual Studio 2017\Projects\randomnumbers-master\randomkeys\obj\Debug\randomkeys.exe
+C:\Users\borges\Documents\Visual Studio 2017\Projects\randomnumbers-master\randomkeys\obj\Debug\randomkeys.pdb

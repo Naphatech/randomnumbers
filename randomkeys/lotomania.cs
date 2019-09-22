@@ -56,5 +56,15 @@ namespace randomkeys
         {
             string ValorDezenas = valordezenas.Text;
         }
+
+        private void lotomania_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

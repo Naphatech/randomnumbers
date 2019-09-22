@@ -40,5 +40,20 @@ namespace randomkeys
             duplasena duplasena = new duplasena();
             duplasena.Show();
         }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void randomnumber_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox4_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

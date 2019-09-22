@@ -48,5 +48,22 @@ namespace randomkeys
             randomnumber random = new randomnumber();
             random.Show();
         }
+
+        private void label5_Click_1(object sender, EventArgs e)
+        {
+            randomnumber irinicio = new randomnumber();
+            irinicio.Show();
+            this.Hide();
+        }
+
+        private void pictureBox4_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void pictureBox5_Click(object sender, EventArgs e)
+        {
+            this.WindowState = FormWindowState.Minimized;
+        }
     }
 }
